@@ -1,0 +1,23 @@
+/*
+	 * battleDescriptionTextLabel (2)
+	 * 
+	 * battleDescriptionPanel (1)
+	 * -> battleDescriptionLabel (img)
+	 * battleOptionPanel (2)
+	 * fightMenuLPanel (3)
+	 * -> fightMenuLabel (img)
+	 *   -> moveButton[4]
+	 *   -> moveInfoPanel
+	 *     -> moveName
+	 *     -> moveType
+	 *     -> moveCategory
+	 *     -> movePower
+	 *     -> movePP
+	 * pokemonMenuPanel (4)
+	 * -> pokemonMenuLabel
+	 *   -> pokemonInMenuPanel[6]
+	 *     ->
+	 *   -> pokemonInMenuLabel[6] (img)
+	 *     -> pokemonInMenuButton[6]
+	 * returnButton (5)
+	 */
