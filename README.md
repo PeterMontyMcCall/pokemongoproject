@@ -16,9 +16,7 @@ This is a two-player Pokémon battle game developed in Java using Swing for the 
 
 <p align="center">
   <img src="images/Starting_Screen.jpg" width="400"/>
-  <img src="images/Pokebox.png" width="400"/>
-  <img src="images/Battle_Background/Battle_Background_1.png" width="400"/>
-  <img src="images/Battle_Background/thumbnail.png" width="400"/>
+  <img src="images/thumbnail.png" width="400"/>
 </p>
 
 ## 🔧 Project Structure
